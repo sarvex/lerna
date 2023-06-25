@@ -75,7 +75,7 @@
     "read-cmd-shim": "3.0.0",
     "read-package-json": "5.0.1",
     "resolve-from": "5.0.0",
-    "semver": "7.3.8",
+    "semver": "7.5.2",
     "signal-exit": "3.0.7",
     "slash": "3.0.0",
     "ssri": "9.0.1",
